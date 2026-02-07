@@ -17,5 +17,13 @@ public class Main {
 
         int a = 10;
         int b = 20;
+
+
+        System.out.println("Farid's changes");
+        System.out.println("Farid's changes");
+        System.out.println("Farid's changes");
+        System.out.println("Farid's changes");
+        System.out.println("Farid's changes");
+        System.out.println("Farid's changes");
     }
 }
